@@ -1,6 +1,9 @@
 # **Finding Lane Lines on the Road** 
 
 <img src="test_image_output/solidWhiteCurve.jpg" width="480" alt="Result Image" />
+<video width="480">
+  <source src="test_videos_output/solidWhiteRight.mp4" type="video/mp4">
+</video>
 
 Overview
 ---
