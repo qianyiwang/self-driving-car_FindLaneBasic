@@ -9,5 +9,6 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 In this project I use the tools and env include: Jupyter notebook, python3.6 and opencv
 
+**For more tech details, please read through writeup.md file**
 
 
